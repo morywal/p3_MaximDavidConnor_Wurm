@@ -22,7 +22,7 @@ public class MainPanel extends JPanel{
 		JFrame j = new JFrame();
 		j.setSize(1200, 720);
 		Color b = new Color(255,255,255);
-		j.add(first)
+		j.add(first);
 		j.setDefaultCloseOperation(j.EXIT_ON_CLOSE);
 		j.setResizable(false);
 		j.setBackground(b);
